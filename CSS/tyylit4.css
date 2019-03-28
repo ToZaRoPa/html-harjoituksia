@@ -1,0 +1,33 @@
+﻿img
+{
+	clear: both;
+	float: left; 
+	margin: 10px 60px 40px 0px;
+}
+
+
+#eka { float: left; } 
+#toka { clear: both; float: right; }
+
+
+table {
+border: 1px solid black;
+border-collapse: collapse;
+}
+
+td {
+border: 1px solid black;
+}
+
+tr:nth-child(odd) {
+	background: yellow; 
+}
+
+tr:nth-child(even) {
+}
+
+
+th {
+border: 1px solid black;
+background: red;
+}
